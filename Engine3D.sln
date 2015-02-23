@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Engine3D", "Motore.vcxproj", "{FD33902E-88DB-4F10-BF05-845B15CE31BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD33902E-88DB-4F10-BF05-845B15CE31BA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD33902E-88DB-4F10-BF05-845B15CE31BA}.Debug|Win32.Build.0 = Debug|Win32
+		{FD33902E-88DB-4F10-BF05-845B15CE31BA}.Release|Win32.ActiveCfg = Release|Win32
+		{FD33902E-88DB-4F10-BF05-845B15CE31BA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
